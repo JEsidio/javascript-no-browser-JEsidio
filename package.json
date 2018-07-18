@@ -1,0 +1,14 @@
+{
+  "name": "katas-two",
+  "version": "1.0.0",
+  "description": "JavaScript Katas",
+  "main": "index.js",
+  "repository": "git@github.com:bootcamp-joinville/katas-two.git",
+  "author": "Bootcamp Joinville",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+  },
+  "scripts": {
+  }
+}
